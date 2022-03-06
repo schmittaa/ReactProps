@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+
+}
+img{
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+h2{
+  color:crimson;
+  display: inline-flex;
+  margin-left: 50px;
+  margin-top: 5px;
+}
+
+.Profile{
+  margin-left: 25%;
+  width: 700px;
+  text-align: justify;
+  background-color: blanchedalmond;
+}
+
+h3,p{
+  display: inline-table;
+  margin-left: 50px;
+  color:lightslategrey ;
+}
